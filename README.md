@@ -133,6 +133,7 @@ The following screenshots show the project working:
 
 ## Project Structure
 
+```text
 CyberShield
 ├── main.py
 ├── password_checker.py
@@ -140,9 +141,12 @@ CyberShield
 ├── file_checker.py
 ├── statement.md
 ├── README.md
+├── test.txt
 └── screenshots
     ├── main_menu.png
     ├── password_output.png
     ├── url_output.png
     ├── file_unchanged.png
     └── file_modified.png
+```
+
